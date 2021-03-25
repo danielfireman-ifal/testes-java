@@ -4,3 +4,7 @@ image:
 tasks:
   - init: 'echo "TODO: Replace with init/build command"'
     command: 'echo "TODO: Replace with command to start project"'
+
+vscode:
+  extensions:
+    - vscjava.vscode-java-test@0.28.1:Vq5tqFnbBv8CzIO03Hf19A==
